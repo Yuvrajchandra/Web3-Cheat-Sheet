@@ -18,6 +18,8 @@ contract HelloWorld {
 ## dApps
 ## Blockchain
 ## Tools and Libraries
+## Ethereum ERC Token Standards
+https://blockchain.oodles.io/blog/quick-guide-ethereum-erc-token-standards/
 ## Miscellanoeus
 ### Decentralized Finance (DeFi)
 Decentralized Finance (commonly referred to as DeFi) is a blockchain-based form of finance that does not rely on central financial intermediaries such as brokerages, exchanges, or banks to offer traditional financial instruments, and instead utilizes smart contracts on blockchains.
